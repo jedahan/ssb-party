@@ -17,7 +17,7 @@
     "muxrpc": "^6.3.3",
     "pull-hash": "^1.0.0",
     "pull-stream": "^3.5.0",
-    "scuttlebot": "^10.0.5",
+    "scuttlebot": "^11.3.3",
     "ssb-blobs": "^1.1.0",
     "ssb-config": "^2.2.0",
     "ssb-friends": "^2.0.0",
