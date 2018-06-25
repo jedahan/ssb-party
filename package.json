@@ -23,8 +23,8 @@
     "ssb-friends": "^2.0.0",
     "ssb-keys": "^7.0.3",
     "ssb-links": "^3.0.0",
-    "ssb-private": "^0.1.1",
-    "ssb-query": "^1.0.0",
+    "ssb-private": "^0.2.1",
+    "ssb-query": "^2.0.1",
     "ssb-ws": "^1.0.1"
   },
   "devDependencies": {
